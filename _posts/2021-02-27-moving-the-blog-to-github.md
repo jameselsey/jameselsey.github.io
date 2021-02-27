@@ -4,9 +4,9 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - jekyll
+  - wordpress
+  - meta
 ---
 
 I've had this website going since being a university student in the mid 2000s, it started off as a static html web page that I maintained myself (hey, I was fresh into web development and enjoyed the challenge!).
