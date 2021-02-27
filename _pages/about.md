@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I have been a software engineer since 2007, I was fortunate to start with some fantastic mentors, and over the years have worked with some amazing people on some really successful projects. I enjoy what I do and love to solve problems, this site is a collection of ideas and solutions I've picked up over the years, hopefully it helps my fellow engineers!
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I like to keep myself busy, when not behind a keyboard I train Brazilian Jiu-Jitsu, and live semi-off grid on acreage in rural Victoria, Australia. I am also a volunteer firefighter at my local CFA brigade.
