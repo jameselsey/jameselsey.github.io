@@ -59,9 +59,11 @@ plugins:
 
 author:
   name   : "James Elsey"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "Digital learnings and other such nonsense"
   links:
+    - label: "Melbourne, Australia"
+      icon: "fab fa-fw fa-map-marker-alt"      
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jameselsey"
