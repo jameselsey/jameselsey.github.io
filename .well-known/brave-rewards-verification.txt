@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jameselsey.github.io
+Token: 61fa1009033f8bc21519bd420821a0b1ccd9867ea074735dcec0de3cb8ad48f4
