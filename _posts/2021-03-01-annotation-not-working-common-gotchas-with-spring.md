@@ -2,11 +2,10 @@
 title: "Spring annotations not working? Common gotcha in Spring"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Java
 tags:
-  - jekyll
-  - wordpress
-  - meta
+  - java
+  - spring
 ---
 
 There's a very common gotcha with Spring annotations, it's caught me out in the past, and is certainly one of the things that I check when reviewing pull requests. Have a look at this example.
