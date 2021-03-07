@@ -21,7 +21,7 @@ The goal
 
 To create a low powered, wifi enabled device that I can install under the access hatch in my rainwater tank, that will periodically take readings of the water level via an ultrasonic sensor and report that data to AWS IoT.
 
-With no IoT experience, I was inspired by a colleague at work who has also done this, I thought it’d be a good way to get stuck in and learn something! I wrote a [previous post about getting started](/building-a-water-tank-sensor-using-esp32-jsn-sr04t-sensor-mongoose-os-and-aws-iot) with Mongoose OS
+With no IoT experience, I was inspired by a colleague at work who has also done this, I thought it’d be a good way to get stuck in and learn something! I wrote a [previous post about getting started](/getting-started-with-the-mongoose-os-and-esp32-an-easy-tutorial) with Mongoose OS
 
 Wiring things up
 ----------------
