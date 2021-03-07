@@ -1,6 +1,7 @@
 ---
 title: 'Getting started with the Mongoose OS and ESP32, an easy tutorial'
 date: '2018-01-12T21:56:21+10:00'
+permalink: '/getting-started-with-the-mongoose-os-and-esp32-an-easy-tutorial'
 author: 'James Elsey'
 category:
     - IoT
