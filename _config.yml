@@ -71,6 +71,12 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jameselsey/"
+    - label: "Credly"
+      icon: "fab fa-fw fa-graduation-cap"
+      url: "https://www.credly.com/users/james-elsey/badges"    
+    - label: "Microsoft Learn"
+      icon: "fab fa-fw fa-windows"
+      url: "https://learn.microsoft.com/en-gb/users/jameselsey-9446/"        
 
 footer:
   links:
@@ -83,6 +89,7 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jameselsey/"
+      
 
 defaults:
   # _posts
