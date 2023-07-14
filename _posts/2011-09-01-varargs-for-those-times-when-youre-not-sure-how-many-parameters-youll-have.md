@@ -1,5 +1,5 @@
 ---
-title: 'Varargs, for those times when you're not sure how many parameters you'll have'
+title: 'Varargs, for those times when you are not sure how many parameters you will have'
 date: '2011-09-01T18:23:37+10:00'
 permalink: /varargs-for-those-times-when-youre-not-sure-how-many-parameters-youll-have
 author: 'James Elsey'
