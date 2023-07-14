@@ -1,5 +1,5 @@
 ---
-title: 'Using while loops, for when you don't know how long the piece of string is'
+title: 'Using while loops, for when you do not know how long the piece of string is'
 date: '2011-01-22T14:12:55+10:00'
 permalink: /using-while-loops-for-when-you-dont-know-how-long-the-piece-of-string-is
 author: 'James Elsey'
