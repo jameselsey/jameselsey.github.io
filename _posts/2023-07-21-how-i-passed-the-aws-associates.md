@@ -1,5 +1,5 @@
 ---
-title: "How to setup Google Analytics on your Jekyll Github Pages site"
+title: "How I passed the 3 AWS associate exams the first time (and the cloud practitioner!)"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
