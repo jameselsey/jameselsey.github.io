@@ -8,7 +8,7 @@ tags:
 ---
 After working with Kafka for about a year, I decided to take the Confluent Certified Developer for Apache Kafka exam as a way to help fill in any gaps in the skills I'd picked up. 
 
-![](../assets/post_images/2024/ccdak.png)
+![](/assets/post_images/2024/ccdak.png)
 
 I found out about the certification soon after I started working with kafka, and as a newcomer, I used the syllabus to guide my learning, I figured that if I studied the topics on the exam, I'd have at least a basic understanding of how it works.
 
@@ -20,12 +20,12 @@ Here are my top resources
 There's a lot of books out there, but these two are absolute must haves, the streams book was particularly good as it introduced concepts with working examples that you could relate to.
 
 ### [Kafka, the definitive guide](https://amzn.asia/d/6o9MbCz)
-![](../assets/post_images/2024/kafkadefinitiveguide.jpg) 
+![](/assets/post_images/2024/kafkadefinitiveguide.jpg) 
 
 I have seen this one referred to as "the bible for kafka", and they're not wrong. This book covers all of the basics that would be relevant to both the developer and administrator exams. I personally skipped over some of the administration sections as it wasn't so relevant for me, but the sections on topics, partitioning, connect, schema registry and security were all very useful. It's one of those books you'll read through quickly at first, but then keep referring back later on, mine is covered in sticky notes and highlights!
 
 ### [Kafka Streams in Action](https://amzn.asia/d/bZbwEBx)
-![](../assets/post_images/2024/kafkastreamsbook.jpg) 
+![](/assets/post_images/2024/kafkastreamsbook.jpg) 
 
 Whilst the definitive guide covers a lot, it doesn't go into enough detail on streams or ksqlDB, so this book is a must, consider them a pair. I really enjoyed the examples in this book, such as the tweet processor, I found it easy to follow. The second half of the book covers ksqlDB, which is invaluable for the exam.
 
