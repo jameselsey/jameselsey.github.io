@@ -1,5 +1,6 @@
 ---
 title: "Building a cheap door alarm with an ESP32 and AWS IoT"
+permalink: /esp32-door-alarm/
 categories:
   - Blog
 tags:
