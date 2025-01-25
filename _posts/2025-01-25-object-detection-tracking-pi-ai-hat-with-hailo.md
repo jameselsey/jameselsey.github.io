@@ -223,7 +223,11 @@ This is the part that I use to send an MQTT message, notice how I keep track of 
 
 ## Conclusion
 
-<iframe width="480" height="360" src="https://youtu.be/BssT-Pm8uEc" > </iframe>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/BssT-Pm8uEc" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
 
 This is still reasonably early days, as the AI HAT was only released last year, but I've certainly found that the hailo documentation is spread thin, you have to check several repos, and there's very little from the community out there, so I had to do a lot of trial and error to get this working.
 
