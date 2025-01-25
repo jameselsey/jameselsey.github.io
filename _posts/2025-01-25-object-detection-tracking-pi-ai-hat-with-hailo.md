@@ -1,7 +1,7 @@
 ---
 title: "How to do object detection and tracking on a Raspberry Pi with the AI HAT with Hailo"
 excerpt_separator: "<!--more-->"
-permalink: /kvs-auto-image-generation/
+permalink: /object-tracking-with-pi5-and-ai-hat/
 categories:
   - Blog
 tags:
